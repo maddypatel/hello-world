@@ -1,3 +1,4 @@
 # hello-world
 My first repository
-Editing README to solve the issue..
+Hello everyone,
+I am Manish Patel, learning Python and Git.
